@@ -9,5 +9,5 @@ In addition to the adversarial patch, the Fast Gradient Sign Method (FGSM) was e
 
 ## FGSM Distorted Image
 
-![Original Image]([path_to_fgsm_image](https://github.com/calicartels/XAI-adversarial-patch/blob/main/how-many-calories-are-in-a-banana-1440x810.jpg))
-![FGSM Distorted Image]([path_to_fgsm_image]([https://github.com/calicartels/XAI-adversarial-patch/blob/main/how-many-calories-are-in-a-banana-1440x810.jpg](https://github.com/calicartels/XAI-adversarial-patch/blob/main/download%20(2).png)))
+![Original Image]([path_to_fgsm_image](how-many-calories-are-in-a-banana-1440x810.jpg)
+![FGSM Distorted Image]([path_to_fgsm_image](download(2).png)
