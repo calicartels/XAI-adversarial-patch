@@ -6,7 +6,7 @@ This project demonstrates the creation of an adversarial patch and its impact on
 
 In addition to the adversarial patch, the Fast Gradient Sign Method (FGSM) was employed to distort a separate image of a banana. The results are displayed to illustrate how FGSM attacks manipulate the input to deceive the model.
 
-## FGSM Distorted Image
+## Image, before and after FGSM Distortion.
 
 ![Original Image](how-many-calories-are-in-a-banana-1440x810.jpg)
-![FGSM Distorted Image](download(2).png)
+![FGSM Distorted Image](download (2).png)
